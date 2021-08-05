@@ -1,8 +1,8 @@
 {
-  "id": "basic",
+  "id": "gix-shape",
   "colors": {
-    "primary": "#002ca5",
-    "secondary": "#3dbdff",
+    "primary": "#21d4ff",
+    "secondary": "#2540ff",
     "primaryBgText": "#ffffff",
     "secondaryBgText": "#ffffff"
   },
@@ -13,9 +13,6 @@
   "options": {
     "shape": {
       "mode": "normal"
-    },
-    "basic": {
-      "image": "/images/biasol-officina-biasol-offices-archello.1597751487.6512.jpg"
     }
   }
 }
